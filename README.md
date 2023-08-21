@@ -1,4 +1,4 @@
-# samlple Webhook triggered
+# demo Webhook triggered
 
 Example Maven project generated using `maven-archetype-quickstart`
 
